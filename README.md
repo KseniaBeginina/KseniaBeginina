@@ -14,6 +14,9 @@ Kotlin
 **Android:**  
 Jetpack Compose, Android SDK  
 
+**Dependency injection:**
+Dagger Hilt
+
 **Networking & APIs:**  
 Retrofit, REST, gRPC  
 
