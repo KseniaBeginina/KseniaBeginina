@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Ksenia Beginina 👋
 
-<!--
-**KseniaBeginina/KseniaBeginina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About me
 
-Here are some ideas to get you started:
+Android developer focused on building modern and clean mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+**Languages:**  
+Kotlin  
+
+**Android:**  
+Jetpack Compose, Android SDK  
+
+**Networking & APIs:**  
+Retrofit, REST, gRPC  
+
+**Database & Storage:**  
+SQLite, Room, Firebase
+
+**Tools & Architecture:**  
+MVVM, Clean Architecture, Coroutines
+
+---
+
+### 📫 Contact Me
+
+- Telegram: [https://t.me/Lilstpd](https://t.me/Lilstpd)
+- Email: 4646rc.if@gmail.com  
